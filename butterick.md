@@ -9,6 +9,37 @@ description: |
 ---
 ```
 
+<style>
+/* Typography: Beautiful paragraph indentation following best practices */
+p {
+  text-indent: 1em;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 1.4;
+}
+
+/* First paragraph after headings should be flush left */
+h1 + p, h2 + p, h3 + p, h4 + p, h5 + p, h6 + p,
+hr + p, blockquote + p, ul + p, ol + p, pre + p,
+table + p, .yaml + p, style + p {
+  text-indent: 0;
+}
+
+/* Reset indentation for list items */
+li > p:first-child {
+  text-indent: 0;
+}
+
+/* Maintain spacing for readability in lists and blockquotes */
+ul, ol {
+  margin: 1em 0;
+}
+
+blockquote {
+  margin: 1em 2em;
+}
+</style>
+
 # Practical Typography: Style Guide Notes
 
 *Based on Matthew Butterick's "Practical Typography" - A comprehensive reference for typographic best practices in digital and print media*
