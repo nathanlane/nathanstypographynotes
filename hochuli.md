@@ -5,10 +5,8 @@ source: "Jost Hochuli, *Detail in Typography* (Eng. tr. 1996)"
 date: "2025-06-28"
 version: "0.2-complete"
 description: |
-  Expanded notes on Hochuli's prescriptions from the book's main chapters, 
-  structured for LLM ingestion. Imperatives are preserved; examples are 
-  brief but concrete. I exclude anecdotes, bibliography, and image plates, 
-  and all that good stuff.
+  Expanded notes on Hochuli's prescriptions from the book's main chapters.
+  I exclude anecdotes, bibliography, and image plates, and all that good stuff.
 ---
 ```
 # Preface
