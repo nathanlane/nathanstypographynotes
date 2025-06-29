@@ -1,12 +1,13 @@
+```yaml
 ---
-
 title: "Practical Typography"
 source: "Matthew Butterick's 'practicaltypography.com'"
-version: "0.1-complete (2025-06-28)"
+date: "2025-06-28"
+version: "0.1-complete"
 description: |
-Expanded notes and points from Practical Typography, a style guide by Matthew Butterick.
-
+  Expanded notes and points from Practical Typography, a style guide by Matthew Butterick.
 ---
+```
 
 # Practical Typography: Style Guide Notes
 
