@@ -1,6 +1,6 @@
 # Nathan's Typography Notes
 
-A curated collection of distilled typography wisdom from master typographers, formatted for both human reading and LLM ingestion.
+A curated collection of distilled typography wisdom from master typographers, formatted for both human reading and notes, and also agentic ingestion. 
 
 ## Contents
 
