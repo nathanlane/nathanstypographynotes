@@ -5,9 +5,9 @@ source: "The Elements of Typographic Style, Version 3.0 by Robert Bringhurst"
 date: "2024-06-28"
 version: "1.0"
 description: |
-  Distilled typographic rules from Bringhurst's comprehensive guide, structured 
-  for LLM ingestion. Includes core principles, tactics, and specific guidance 
-  for rhythm, proportion, type selection, and page design.
+  Distilled typographic rules from Bringhurst's comprehensive guide. Includes 
+  core principles, tactics, and specific guidance for rhythm, proportion, 
+  type selection, and page design.
 ---
 ```
 
