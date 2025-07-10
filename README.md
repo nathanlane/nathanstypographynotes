@@ -2,6 +2,8 @@
 
 A curated collection of distilled typography wisdom from master typographers.
 
+Used to make the LaTeX template: [https://github.com/nathanlane/lane_latex_template](github.com/nathanlane/lane_latex_template).
+
 ## Contents
 
 - **[Ambrose & Harris](ambroseharris.md)** – Gavin Ambrose and Paul Harris's *The Fundamentals of Typography*
