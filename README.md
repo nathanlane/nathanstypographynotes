@@ -2,7 +2,7 @@
 
 A curated collection of distilled typography wisdom from master typographers.
 
-Used to make the LaTeX template: [github.com/nathanlane/lane_latex_template]([github.com/nathanlane/lane_latex_template](https://github.com/nathanlane/lane_latex_template)).
+Used to make the LaTeX template: [github.com/nathanlane/lane_latex_template](https://github.com/nathanlane/lane_latex_template).
 
 ## Contents
 
