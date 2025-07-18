@@ -10,7 +10,7 @@ description: |
 ---
 ```
 
-## **title: "Detail in Typography: A Comprehensive Guide" version: 2.0 source: "Detail in Typography by Jost Hochuli, Hyphen Press, 2008 Edition" date: 2025-06-27**
+## **Title: "Detail in Typography: A Comprehensive Guide" version: 2.0 source: "Detail in Typography by Jost Hochuli, Hyphen Press, 2008 Edition" date: 2025-06-27**
 
 # **Introduction to Detail Typography (Micro-typography)**
 
