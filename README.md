@@ -11,6 +11,7 @@ Used to make the LaTeX template: [github.com/nathanlane/lane_latex_template](htt
 - **[Butterick](butterick.md)** – Matthew Butterick's *Practical Typography*
 - **[Hochuli](hochuli.md)** – Jost Hochuli's *Detail in Typography*
 - **[Ruder](ruder.md)** – Emil Ruder's *Typography: A Manual of Design*
+- **[Santa Maria](jasonsantamaria.md)** – Jason Santa Maria's *On Web Typography*
 
 ## Document Structure
 
@@ -49,6 +50,7 @@ These notes serve as:
 - Butterick, Matthew. *Practical Typography*. 2nd ed., 2018. https://practicaltypography.com
 - Hochuli, Jost. *Detail in Typography*. Hyphen Press, 2008.
 - Ruder, Emil. *Typography: A Manual of Design*. 7th ed., Niggli, 2009.
+- Santa Maria, Jason. *On Web Typography*. A Book Apart, 2014.
 
 ### Additional Resources
 
